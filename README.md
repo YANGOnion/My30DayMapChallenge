@@ -3,10 +3,10 @@
 ![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/30daymapchallenge.jpg)
 
 ### 10. Black and white
-![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/10_black_and_white.tif)
+![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/10_black_and_white.png)
 
 ### 11. Elevation
-![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/11_elevation.tiff)
+![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/11_elevation.png)
 
 ### 12. Movement
 ![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/12_movement.png)
@@ -33,7 +33,7 @@
 ![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/19_20_Urban_Rural.PNG)
 
 ### 23. Population
-![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/23_Population.tiff)
+![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/23_Population.png)
 
 ### 23. Statistics
-![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/24_Statistics.tiff)
+![alt text](https://github.com/YANGOnion/My30DayMapChallenge/blob/main/graphics/24_Statistics.png)
